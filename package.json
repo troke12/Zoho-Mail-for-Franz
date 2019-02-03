@@ -1,10 +1,10 @@
 {
   "id": "zoho",
   "name": "Zoho Mail",
-  "version": "1.1.1",
+  "version": "1.0.0",
   "description": "Zoho Mail – Hosted Email for Businesses",
   "main": "index.js",
-  "author": "Milan Zitka <milan@littlewall.cz>",
+  "author": "troke jame_glove@yahoo.com",
   "license": "MIT",
   "config": {
     "serviceURL": "https://www.zoho.com/mail/login.html",
